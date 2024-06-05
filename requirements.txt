@@ -1,0 +1,15 @@
+asgiref==3.8.1
+colorama==0.4.6
+Django==5.0.4
+djangorestframework==3.15.1
+djangorestframework-simplejwt==5.3.1
+iniconfig==2.0.0
+packaging==24.0
+pluggy==1.5.0
+PyJWT==2.8.0
+pytest==8.2.0
+pytest-django==4.8.0
+pytest-testdox==3.1.0
+python-dotenv==1.0.1
+sqlparse==0.5.0
+tzdata==2024.1
